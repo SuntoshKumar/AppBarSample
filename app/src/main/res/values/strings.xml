@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppBarSample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit">edit</string>
+    <string name="content_description_search">edit</string>
+    <string name="favorite">favorite</string>
+    <string name="content_description_favorite">favorite</string>
+    <string name="more">more</string>
+    <string name="content_description_more">more</string>
+    <string name="page_title">Name</string>
+    <string name="accelerator">accelerator</string>
+    <string name="content_description_accelerator">description</string>
+    <string name="rotation">rotation</string>
+    <string name="content_description_rotation">description</string>
+    <string name="dashboard">dashboard</string>
+    <string name="content_description_dashboard">description</string>
+    <string name="four">four\n\n</string>
+</resources>

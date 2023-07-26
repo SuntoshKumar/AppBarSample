@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/oneFragment"
+        android:icon="@drawable/baseline_looks_one_24"
+        android:title="@string/accelerator"
+        android:contentDescription="@string/content_description_accelerator"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/twoFragment"
+        android:icon="@drawable/baseline_looks_two_24"
+        android:title="@string/rotation"
+        android:contentDescription="@string/content_description_rotation"
+        app:showAsAction="ifRoom"/>
+
+
+    <item
+        android:id="@+id/threeFragment"
+        android:icon="@drawable/baseline_looks_3_24"
+        android:title="@string/dashboard"
+        android:contentDescription="@string/content_description_dashboard"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/fourFragment"
+        android:icon="@drawable/baseline_looks_4_24"
+        android:title="@string/four"
+        android:contentDescription="@string/content_description_dashboard"
+        app:showAsAction="ifRoom"/>
+
+</menu>
